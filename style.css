@@ -1,0 +1,23 @@
+
+input {
+    padding: 3px 5px;
+    width: 200px;
+    height: 24px;
+    border:solid 1px #ccc;
+    border-radius: 5px;
+}
+button {
+    margin: auto;
+    padding: 5px 5px;
+    border: solid 1px #ccc;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: chartreuse;
+    color: white;
+}
+table {
+    border-spacing: 20px;
+    border: 1px solid white;
+    background-color: beige;
+    border-radius: 10px;
+}
